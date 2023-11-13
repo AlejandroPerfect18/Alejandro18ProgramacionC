@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699623674 source:c:\users\admin\downloads\programacion c alejandro 18\loteria ahb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

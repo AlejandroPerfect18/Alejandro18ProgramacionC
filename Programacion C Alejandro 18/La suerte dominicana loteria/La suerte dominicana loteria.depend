@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699907931 source:c:\users\admin\downloads\programacion c alejandro 18\la suerte dominicana loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
