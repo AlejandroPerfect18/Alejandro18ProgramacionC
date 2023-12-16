@@ -1,0 +1,4 @@
+C:\Users\Admin\Downloads\Programacion C Alejandro 18\Calculadora 18\obj\Debug\net8.0\Calculadora 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Programacion C Alejandro 18\Calculadora 18\obj\Debug\net8.0\Calculadora 18.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Programacion C Alejandro 18\Calculadora 18\obj\Debug\net8.0\Calculadora 18.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Programacion C Alejandro 18\Calculadora 18\obj\Debug\net8.0\Calculadora 18.csproj.CoreCompileInputs.cache
